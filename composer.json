@@ -1,5 +1,5 @@
 {
-    "name": "acsystems/keycloak-php-sdk",
+    "name": "kaboodle/keycloak-php-sdk",
     "description": "PHP wrapper for the KeyCloak admin API",
     "keywords": [
         "keycloak",
@@ -9,13 +9,13 @@
     ],
     "type": "library",
     "license": "MIT",
-    "authors": [
-        {
-            "name": "WebDev",
-            "email": "web.support@ac-systems.com",
-            "homepage": "https://ac-systems.be"
-        }
-    ],
+        "authors": [
+            {
+                "name": "WebDev",
+                "email": "web.support@ac-systems.com",
+                "homepage": "https://ac-systems.be"
+            }
+        ],
     "require": {
         "php": ">=7.4",
         "ext-json": "*",
